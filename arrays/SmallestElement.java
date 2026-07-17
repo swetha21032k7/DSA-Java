@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SmallestElement {
 
-    public static int findLargest(int[] nums) {
+    public static int findSmallest(int[] nums) {
 
         int smallest = nums[0];
 
@@ -32,7 +32,7 @@ public class SmallestElement {
             nums[i] = sc.nextInt();
         }
 
-        int result = findLargest(nums);
+        int result = findSmallest(nums);
 
         System.out.println("Smallest Element: " + result);
 
