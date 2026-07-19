@@ -1,36 +1,46 @@
-# Arrays - Java DSA Practice
+# 📚 Arrays - DSA Java
 
-This folder contains my Java solutions for array-based Data Structures and Algorithms (DSA) problems. Each problem is solved using a beginner-friendly approach with proper time and space complexity analysis.
+This folder contains Java solutions for Array problems that I solve daily as part of my DSA journey.
 
-## Progress
+## 🛠️ Language
+- Java
+
+## 📅 Progress Tracker
 
 | Day | Problem | Status | Time Complexity | Space Complexity |
 |-----|---------|--------|-----------------|------------------|
 | Day 1 | Two Sum (Brute Force) | ✅ Completed | O(n²) | O(1) |
-| Day 2 | Largest Element in Array | ✅ Completed | O(n) | O(1) |
-| Day 3 | Smallest Element in Array | ✅ Completed | O(n) | O(1) |
+| Day 2 | Largest Element in an Array | ✅ Completed | O(n) | O(1) |
+| Day 3 | Smallest Element in an Array | ✅ Completed | O(n) | O(1) |
+| Day 4 | Linear Search | ✅ Completed | O(n) | O(1) |
+| Day 5 | Reverse Array (Two Pointer) | ✅ Completed | O(n) | O(1) |
+| Day 6 | Second Largest Element in an Array | ✅ Completed | O(n) | O(1) |
 
-## Upcoming Problems
+## 📂 Problems Covered
 
-- ⏳ Reverse Array
-- ⏳ Second Largest Element
-- ⏳ Check if Array is Sorted
-- ⏳ Move Zeros to End
-- ⏳ Remove Duplicates from Sorted Array
-- ⏳ Left Rotate Array
-- ⏳ Binary Search
+- ✅ Two Sum (Brute Force)
+- ✅ Largest Element in an Array
+- ✅ Smallest Element in an Array
+- ✅ Linear Search
+- ✅ Reverse Array
+- ✅ Second Largest Element in an Array
 
-## Concepts Covered
+## 🎯 Concepts Learned
 
 - Arrays
 - User Input using Scanner
 - Methods (Functions)
-- for Loop
-- if Condition
-- Array Traversal
+- Linear Search
+- Brute Force Approach
+- Two Pointer Technique
+- Finding Maximum and Minimum
+- Second Largest Element
 - Time Complexity
 - Space Complexity
 
-## Language
+## 🚀 Goal
 
-- Java
+Solve Array problems consistently to build a strong foundation in Data Structures and Algorithms for coding interviews and placements.
+
+---
+⭐ Daily DSA Practice | Java | GitHub Journey
