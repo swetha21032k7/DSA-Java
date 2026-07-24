@@ -15,7 +15,7 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 ## 📅 Progress Tracker
 
 | Day | Problem | Status | Time Complexity | Space Complexity |
-|-----|---------|--------|-----------------|------------------|
+|------|------------------------------------------|--------|-----------------|------------------|
 | Day 1 | Two Sum (Brute Force) | ✅ Completed | O(n²) | O(1) |
 | Day 2 | Largest Element in an Array | ✅ Completed | O(n) | O(1) |
 | Day 3 | Smallest Element in an Array | ✅ Completed | O(n) | O(1) |
@@ -23,6 +23,9 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 | Day 5 | Reverse Array (Two Pointer) | ✅ Completed | O(n) | O(1) |
 | Day 6 | Second Largest Element in an Array | ✅ Completed | O(n) | O(1) |
 | Day 7 | Check if Array is Sorted | ✅ Completed | O(n) | O(1) |
+| Day 8 | Move Zeroes | ✅ Completed | O(n) | O(1) |
+| Day 9 | Left Rotate Array by One Position | ✅ Completed | O(n) | O(1) |
+| Day 10 | Left Rotate Array by K Positions | ✅ Completed | O(n) | O(n) *(Simple Approach)* |
 
 ---
 
@@ -33,8 +36,11 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 - ✅ Smallest Element in an Array
 - ✅ Linear Search
 - ✅ Reverse Array
-- ✅ Second Largest Element in an Array
+- ✅ Second Largest Element
 - ✅ Check if Array is Sorted
+- ✅ Move Zeroes
+- ✅ Left Rotate Array by One Position
+- ✅ Left Rotate Array by K Positions
 
 ---
 
@@ -43,7 +49,7 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 - Arrays
 - User Input using Scanner
 - Methods (Functions)
-- Brute Force Approach
+- Brute Force Technique
 - Linear Search
 - Two Pointer Technique
 - Array Traversal
@@ -51,32 +57,54 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 - Finding Maximum Element
 - Finding Minimum Element
 - Finding Second Largest Element
-- Checking Whether an Array is Sorted
+- Checking if an Array is Sorted
+- Moving Zeroes
+- Array Rotation
+- Temporary Array
 - Time Complexity Analysis
 - Space Complexity Analysis
+
+---
+
+## 🏆 Progress Summary
+
+- ✅ Total Days Completed: **10**
+- ✅ Total Java Programs: **10**
+- ✅ Topic Completed: **Arrays (Basic Level)**
 
 ---
 
 ## 🎯 Goal
 
 - Solve DSA problems consistently.
-- Strengthen problem-solving skills.
+- Build strong problem-solving skills.
 - Prepare for coding interviews.
 - Build a professional GitHub portfolio.
 - Master Java for Data Structures and Algorithms.
 
 ---
 
-## 📌 Upcoming Topics
+## 📌 Upcoming Problems
 
-- ⏳ Move Zeroes
-- ⏳ Left Rotate Array by One Position
-- ⏳ Left Rotate Array by K Positions
-- ⏳ Remove Duplicates from Sorted Array
 - ⏳ Binary Search
 - ⏳ Find Missing Number
 - ⏳ Maximum Consecutive Ones
 - ⏳ Best Time to Buy and Sell Stock
+- ⏳ Merge Sorted Arrays
+- ⏳ Union of Two Sorted Arrays
+- ⏳ Intersection of Two Sorted Arrays
+
+---
+
+## 💡 LeetCode Problems Solved
+
+- ✅ 1. Two Sum
+- ✅ 26. Remove Duplicates from Sorted Array
+- ✅ 88. Merge Sorted Array *(if completed)*
+- ✅ 283. Move Zeroes
+- ✅ 724. Find Pivot Index
+- ✅ 1480. Running Sum of 1D Array
+- ✅ 1929. Concatenation of Array
 
 ---
 
