@@ -26,6 +26,8 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 | Day 8 | Move Zeroes | ✅ Completed | O(n) | O(1) |
 | Day 9 | Left Rotate Array by One Position | ✅ Completed | O(n) | O(1) |
 | Day 10 | Left Rotate Array by K Positions | ✅ Completed | O(n) | O(n) *(Simple Approach)* |
+| Day 11 | Binary Search | ✅ Completed | O(log n) | O(1) |
+| Day 12 | Find Missing Number | ✅ Completed | O(n) | O(1) |
 
 ---
 
@@ -41,6 +43,8 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 - ✅ Move Zeroes
 - ✅ Left Rotate Array by One Position
 - ✅ Left Rotate Array by K Positions
+- ✅ Binary Search
+- ✅ Find Missing Number
 
 ---
 
@@ -51,6 +55,7 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 - Methods (Functions)
 - Brute Force Technique
 - Linear Search
+- Binary Search
 - Two Pointer Technique
 - Array Traversal
 - Swapping Elements
@@ -61,6 +66,7 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 - Moving Zeroes
 - Array Rotation
 - Temporary Array
+- Mathematical Formula (Sum of First n Numbers)
 - Time Complexity Analysis
 - Space Complexity Analysis
 
@@ -68,31 +74,10 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 
 ## 🏆 Progress Summary
 
-- ✅ Total Days Completed: **10**
-- ✅ Total Java Programs: **10**
-- ✅ Topic Completed: **Arrays (Basic Level)**
-
----
-
-## 🎯 Goal
-
-- Solve DSA problems consistently.
-- Build strong problem-solving skills.
-- Prepare for coding interviews.
-- Build a professional GitHub portfolio.
-- Master Java for Data Structures and Algorithms.
-
----
-
-## 📌 Upcoming Problems
-
-- ⏳ Binary Search
-- ⏳ Find Missing Number
-- ⏳ Maximum Consecutive Ones
-- ⏳ Best Time to Buy and Sell Stock
-- ⏳ Merge Sorted Arrays
-- ⏳ Union of Two Sorted Arrays
-- ⏳ Intersection of Two Sorted Arrays
+- ✅ Total Days Completed: **12**
+- ✅ Total Java Programs: **12**
+- ✅ Arrays Problems Solved: **12**
+- ✅ Consistent Daily DSA Practice
 
 ---
 
@@ -100,7 +85,9 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 
 - ✅ 1. Two Sum
 - ✅ 26. Remove Duplicates from Sorted Array
-- ✅ 88. Merge Sorted Array *(if completed)*
+- ✅ 35. Search Insert Position
+- ✅ 88. Merge Sorted Array
+- ✅ 268. Missing Number
 - ✅ 283. Move Zeroes
 - ✅ 724. Find Pivot Index
 - ✅ 1480. Running Sum of 1D Array
@@ -108,4 +95,48 @@ This folder contains my daily Java solutions for Array problems. I'm solving one
 
 ---
 
+## 📌 Upcoming Problems
+
+- ⏳ Maximum Consecutive Ones
+- ⏳ Best Time to Buy and Sell Stock
+- ⏳ Union of Two Sorted Arrays
+- ⏳ Intersection of Two Sorted Arrays
+- ⏳ Majority Element
+- ⏳ Leaders in an Array
+- ⏳ Kadane's Algorithm (Maximum Subarray)
+- ⏳ Rearrange Array by Sign
+
+---
+
+## 🎯 Goal
+
+- Solve DSA problems consistently.
+- Build strong problem-solving skills.
+- Master Java for Data Structures and Algorithms.
+- Prepare for coding interviews and placements.
+- Build a professional GitHub portfolio.
+
+---
+
+## 🚀 Repository Structure
+
+```text
+DSA-Java/
+│
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+├── Recursion/
+└── README.md
+```
+
+---
+
 ⭐ **Daily DSA Practice | Java | GitHub Journey**
+
+> *"Consistency beats intensity. One problem every day is better than many problems once in a while."*
